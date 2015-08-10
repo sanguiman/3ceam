@@ -1,0 +1,11 @@
+On August 26, google code will begin to shutdown its services
+by making all projects read-only. This means 3CeAM had to be
+moved to a new host. The address to the new host can be found here....
+
+SourceForge - 3CeAM V1
+https://sourceforge.net/projects/v1-3ceam/
+
+This marks the end of the project's life on google code.
+I hate seeing google code get shutdown. It was a great place for
+SVN hosted projects and was real easy and simple for me to use.
+Now I gotta learn my way around a new place. *sigh* Oh well.
